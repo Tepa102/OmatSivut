@@ -41,7 +41,9 @@
 .navbarDark {
     background: #000;
 }
-
+.navbar-light {
+    background: rgb(179, 176, 176);
+}
 .navbar-brand {
     font-weight: bold;
     font-size: 36px;
